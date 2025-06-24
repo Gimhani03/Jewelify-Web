@@ -117,7 +117,7 @@ We would like to thank the following contributors who made this project possible
 - **Sinethya Kariyawasam**
 - **Anumi Samaranayaka**
 - **Senumi Samaranayaka**
-  **Daranee Denipitiya**
+- **Daranee Denipitiya**
 
 ## 🔒 License
 
