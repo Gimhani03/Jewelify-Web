@@ -123,14 +123,6 @@ We would like to thank the following contributors who made this project possible
 
 This project is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Support
-
-For support and inquiries, please contact the development team.
-
 ## 🌟 Acknowledgments
 
 - UI/UX inspired by modern e-commerce best practices
