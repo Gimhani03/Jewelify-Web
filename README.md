@@ -9,6 +9,7 @@ Jewelify is a full-stack e-commerce solution designed specifically for jewelry r
 ## ✨ Features
 
 ### Customer Features
+
 - **Product Catalog**: Browse extensive collections of rings, necklaces, earrings, bracelets, and more
 - **Shopping Cart**: Seamless cart management with real-time updates
 - **User Authentication**: Secure login and registration system
@@ -16,6 +17,7 @@ Jewelify is a full-stack e-commerce solution designed specifically for jewelry r
 - **Responsive Design**: Optimized for all devices
 
 ### Admin Features
+
 - **Inventory Management**: Add, edit, and remove products
 - **Order Processing**: Track and manage customer orders
 - **User Management**: Oversee customer accounts
@@ -24,6 +26,7 @@ Jewelify is a full-stack e-commerce solution designed specifically for jewelry r
 ## 🛠️ Technology Stack
 
 ### Frontend
+
 - **HTML5**: Semantic markup and structure
 - **CSS3**: Advanced styling with Flexbox, Grid, and animations
 - **Bootstrap**: Responsive layouts for a polished UI
@@ -31,6 +34,7 @@ Jewelify is a full-stack e-commerce solution designed specifically for jewelry r
 - **IonIcons**: Custom icons for enhanced visual appeal
 
 ### Backend
+
 - **PHP**: Server-side processing for dynamic content and user management
 - **MySQL**: Reliable database for product and user data
 
@@ -59,12 +63,14 @@ Jewelify-Ecommerce/
 ## 🛠️ Installation Guide
 
 1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/SeneshFitzroy/Jewelify-Ecommerce.git
    cd Jewelify-Ecommerce
    ```
 
 2. **Set Up Database**:
+
    - Import the database schema into MySQL:
      ```bash
      mysql -u root -p ecommerce < admin/ecommerce.sql
@@ -72,10 +78,12 @@ Jewelify-Ecommerce/
      ```
 
 3. **Configure Database Connection**:
+
    - Update database credentials in configuration files
    - Ensure MySQL server is running
 
 4. **Deploy to Server**:
+
    - Place the project in a PHP-enabled server directory (e.g., XAMPP's `htdocs/`)
    - Ensure proper file permissions
 
@@ -86,6 +94,7 @@ Jewelify-Ecommerce/
 ## 🎯 Usage
 
 ### For Customers
+
 1. Browse the jewelry collections
 2. Add items to your cart
 3. Register or login to your account
@@ -93,6 +102,7 @@ Jewelify-Ecommerce/
 5. Leave reviews and testimonials
 
 ### For Administrators
+
 1. Access the admin panel
 2. Manage product inventory
 3. Process customer orders
@@ -103,12 +113,11 @@ Jewelify-Ecommerce/
 
 We would like to thank the following contributors who made this project possible:
 
-- **Dulni Mahara** 
-- **Sinethya Kariyawasam** 
-- **Anumi Samaranayaka** 
+- **Dulni Mahara**
+- **Sinethya Kariyawasam**
+- **Anumi Samaranayaka**
 - **Senumi Samaranayaka**
   **Daranee Denipitiya**
-  
 
 ## 🔒 License
 
@@ -130,4 +139,4 @@ For support and inquiries, please contact the development team.
 
 ---
 
-*Jewelify - Where elegance meets technology* ✨
+_Jewelify - Where elegance meets technology_ ✨
