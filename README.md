@@ -114,7 +114,7 @@ Jewelify-Ecommerce/
 We would like to thank the following contributors who made this project possible:
 
 - **Dulni Mahara**
-- **Sinethya Kariyawasam**
+- **Sinethmi Kariyawasam**
 - **Anumi Samaranayaka**
 - **Senumi Samaranayaka**
 - **Daranee Denipitiya**
